@@ -11,7 +11,8 @@ require(plotrix)
 
 # # # # # # # # # # # # #
 # load the data
-load('~/test_project/data/radial_plot_data.RData')
+#  ... this assumes the working directory is already set to "test_project"
+load('data/radial_plot_data.RData')
 # # # # # # # # # # # # #
 
 
